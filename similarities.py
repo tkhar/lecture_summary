@@ -7,7 +7,7 @@
 
 # Date: December 2023
 
-# Authors: Themistoklis Haris, Themistoklis Nikas
+# Authors: Themistoklis Nikas, Themistoklis Haris
 
 sumSimilarities = {}
 
